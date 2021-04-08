@@ -131,3 +131,5 @@ dmypy.json
 movies.csv
 ratings.csv
 steam_reviews.csv
+steam-200k.csv
+.ipynb_checkpoints
